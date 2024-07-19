@@ -14,6 +14,7 @@ download "distro-ci-lktul.tar"
 cd /home/jenkins/userContent/distro-ci
 #chane machine in distro_support.cfg file as per your requirement. 
 
+# copy PowerVMInstall_New.tar file to /var/lib/jenkins/workspace 
 #login to ci-http-results : 
 
 # mkdir /home/jenkins/workspace
